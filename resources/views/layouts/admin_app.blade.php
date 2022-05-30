@@ -586,28 +586,28 @@
                                 </a>
                                 <ul>
                                     <li>
-                                        <a href="banner">
+                                        <a href="school">
                                             <i class="metismenu-icon">
-                                            </i>Banner
+                                            </i>School
                                         </a>
                                     </li>
                                     
                                     <li>
-                                        <a href="chef">
+                                        <a href="product">
                                             <i class="metismenu-icon">
-                                            </i>Chef
+                                            </i>Product
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="challenge">
+                                            <i class="metismenu-icon">
+                                            </i>Challenge
                                         </a>
                                     </li>
                                     <li>
                                         <a href="category">
                                             <i class="metismenu-icon">
                                             </i>Category
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="cuisine">
-                                            <i class="metismenu-icon">
-                                            </i>Cuisine
                                         </a>
                                     </li>
                                     <li>
